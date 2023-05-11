@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Инкубатор Пальники</string>
+    <string name="news_fragment">Новости</string>
+    <string name="items_fragment">Товары</string>
+    <string name="shopcart_fragment">Корзина</string>
+    <string name="profile_fragment">Профиль</string>
+    <string name="action_back">Назад</string>
+</resources>
